@@ -1,2 +1,9 @@
-# Hospital-Appointment-Scheduling-AI
-AI-powered hospital appointment scheduling web app built with Python, Streamlit and scikit-learn. Patients book doctor slots online with double-booking prevention. A Naive Bayes model suggests the right department from symptoms, a Random Forest predicts no-show risk, and a chatbot answers common questions. Uses synthetic data; not for medical use.
+# Hospital Appointment Scheduling using AI
+
+Run:
+    pip install -r requirements.txt
+    streamlit run app.py
+
+Features: book appointments, AI department suggestion (Naive Bayes),
+AI no-show prediction (Random Forest), update status, statistics, chatbot.
+Data is saved in appointments.csv (created automatically).

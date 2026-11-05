@@ -1,0 +1,3 @@
+id,name,phone,age,department,doctor,date,time,symptoms,risk,status
+1,prem,7890345603,31,ENT,Dr. Khanna,2026-11-05,11:30,"fracture in right leg
+",0.0,Booked
